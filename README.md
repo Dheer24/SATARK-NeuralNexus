@@ -1,7 +1,7 @@
 # SATARK.
 **Verify before you transfer.**
 
-Live demo: https://satark-neural-nexus.dheermehta48.chatgpt.site
+Live demo: https://satarksaathi09.netlify.app/
 
 A working investor-protection prototype for Team Neural Nexus at SANGYAN, IIT (BHU). Built for Ramesh, 62, in Gorakhpur, and first-time investors who receive financial claims through messaging groups. Independent hackathon prototype; no regulator endorsement.
 
